@@ -1,10 +1,14 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yu-kiFujiwara&count_private=true&show_icons=true)" />
+
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-kiFujiwara" />
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Yu-kiFujiwara/Yu-kiFujiwara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
